@@ -10,8 +10,6 @@
 # Peer‑to‑Peer Witness‑Based Proof‑of‑Presence for University Lecture Attendance (p2p-pop)
 대학 강의 출석을 위한 동료 간 증인 기반 출석 증명 (Peer‑to‑Peer Witness‑Based Proof‑of‑Presence)
 
-<sup><sub>~이렇게까지 해서 출석을 해야 하나…~</sub></sup>
-
 ---
 
 ## Introduction
